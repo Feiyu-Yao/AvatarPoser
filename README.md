@@ -70,4 +70,4 @@ If your find our paper or codes useful, please cite our work:
 
 License and Acknowledgement
 ----------
-This project is released under the MIT license. We refer to the code framework in  [FBCNN](https://github.com/jiaxi-jiang/FBCNN/) and [KAIR](https://github.com/cszn/KAIR) for network training. 
+This project is released under the MIT license. We refer to the code framework in  [FBCNN](https://github.com/jiaxi-jiang/FBCNN/) and [SCI-NET](https://github.com/cure-lab/SCINet) for network training. 
